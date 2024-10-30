@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Colorful Tag Cloud\n"
+"POT-Creation-Date: 2014-03-05 19:39+0800\n"
+"PO-Revision-Date: 2014-03-05 19:39+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: colorful-tag-cloud.php:48
+msgid "Settings"
+msgstr "設定"
+
+#: options.php:11 options.php:45
+msgid "Colorful Tag Cloud Options Page"
+msgstr "彩色標籤雲設定頁面"
+
+#: options.php:11
+msgid "Colorful Tag Cloud"
+msgstr "彩色標籤雲"
+
+#: options.php:48
+msgid "General Options"
+msgstr "一般設定"
+
+#: options.php:52
+msgid "Tag Cloud's Color Type: "
+msgstr "標籤雲顔色種類："
+
+#: options.php:54
+msgid "Random"
+msgstr "隨機"
+
+#: options.php:54
+msgid "Customise"
+msgstr "自定義"
+
+#: options.php:57
+#, php-format
+msgid "Color code format: %s"
+msgstr "顔色代碼格式：%s"
+
+#: options.php:58
+#, php-format
+msgid "(Click %shere%s to choose color code)"
+msgstr "（點擊%s這裏%s來選擇顔色代碼）"
